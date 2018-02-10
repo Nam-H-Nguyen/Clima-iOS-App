@@ -15,7 +15,7 @@ OR download the zip file
 4. Open the folder Clima-iOS-App__
 5. Double click the file "Clima.xcodeproj"
 6. Press two keys simultaneously __CMD + R__ to run the app
-7. Finally . . . tap away to play some sound! Have fun with the app.
+7. Finally . . . look around for your or your loved one's city's weather! Have fun with the app.
 
 - - - -
 I have many more projects to come. If you want to collaborate with me feel free to hit me up here!

@@ -8,12 +8,12 @@
 
 1. Open Terminal
 2. Change directory to where you want to clone the file
-3. Type `git clone https://github.com/Nam-H-Nguyen/Quizzler-iOS-App.git`
+3. Type `git clone https://github.com/Nam-H-Nguyen/Clima-iOS-App.git`
 - - - -
 OR download the zip file
 - - - -
-4. Open the folder __Quizzler-iOS-App__
-5. Double click the file "Quizzer.xcodeproj"
+4. Open the folder Clima-iOS-App__
+5. Double click the file "Clima.xcodeproj"
 6. Press two keys simultaneously __CMD + R__ to run the app
 7. Finally . . . tap away to play some sound! Have fun with the app.
 

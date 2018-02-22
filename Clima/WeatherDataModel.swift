@@ -9,14 +9,12 @@ import UIKit
 
 class WeatherDataModel {
 
-    //Declare your model variables here
     var temperature : Int = 0
     var condition : Int = 0
     var city : String = ""
     var weatherIconName : String = ""
     
     //This method turns a condition code into the name of the weather condition image
-    
     func updateWeatherIcon(condition: Int) -> String {
         
     switch (condition) {
@@ -55,7 +53,7 @@ class WeatherDataModel {
             return "sunny"
         
         default :
-            return "dunno"
+            return "Oops.. what is life?"
         }
 
     }
